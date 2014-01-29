@@ -1,0 +1,10 @@
+****************************************************************
+Implements a set using a hash table.
+****************************************************************
+
+README		- This file
+
+# source files
+utah_set  {.cc, .h}	- Primary source code
+node {.cc, .h}          - Nodes used to resolve collisions through chaining
+YankeeCut.txt           - For testing purposes
